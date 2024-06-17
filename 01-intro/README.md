@@ -94,9 +94,8 @@ Query:
 ```
 
 
-# Notes
+## Notes on Module 1 Tutorial of DataTalksClub's LLM Zoomcamp
 
-## Highlights Module 1
 ### Module 1.1
 * Introduction to LLM and RAG frameworks🎓
 *  Understanding language models and their predictive nature🔍
@@ -146,7 +145,6 @@ Query:
 * Understanding the complex query syntax and filtering in Elasticsearch🧠 
 * Creating functions to interact with Elasticsearch for efficient search operations🛠️ 
 
-
-
+# Notes
 * Replace it with a link
 * Did you take notes? Add them above this line
