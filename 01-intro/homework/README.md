@@ -1,6 +1,6 @@
 ## Week 1 - Homework
 
-### Run ElasticSearch with Docker
+### 1. Run ElasticSearch with Docker
 
 ```bash
 docker run -it \
@@ -11,5 +11,7 @@ docker run -it \
     -e "xpack.security.enabled=false" \
     docker.elastic.co/elasticsearch/elasticsearch:8.4.3
 ```
+
+### 2. Getting the data
 
 

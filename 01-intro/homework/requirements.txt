@@ -1,0 +1,6 @@
+elasticsearch
+requests
+tiktoken
+tqdm
+python-dotenv
+openai
