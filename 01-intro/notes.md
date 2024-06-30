@@ -1,5 +1,8 @@
 ## Notes on Module 1 Tutorial of DataTalksClub's LLM Zoomcamp
 
+### RAG Architecture
+![alt text](RAG_ARCHITECTURE.png)
+
 ### LLM Zoomcamp Modelue 1.1: 
 An overview of LLM and RAG frameworks, emphasising the practical applications of building a Q&A system using an LLM and retrieval-generation framework.
 
